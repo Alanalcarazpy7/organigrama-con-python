@@ -1,0 +1,5 @@
+digraph G {
+    node [shape=rectangle style=filled fontname="Helvetica" fontsize=14 width=1.5 height=0.6 penwidth=1.5 fillcolor="#948F8F" fontcolor=white];
+    edge [penwidth=1.5 arrowhead=none arrowsize=1.5 color="white" dir=forward];
+    graph [splines=true overlap=false bgcolor="#333333"];
+}
